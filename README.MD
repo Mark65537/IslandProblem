@@ -23,7 +23,7 @@
 <h3>2.2.1 Блок-схема алгоритма</h3>
 
 В данном разделе приводится графическая блок-схема алгоритма решения задачи.
-![image](https://github.com/Mark65537/IslandProblem/blob/main/images/example1.png)
+![image](https://github.com/Mark65537/IslandProblem/blob/main/images/blok.png)
 Пример:
 На рис.1. приведена графическая блок-схема алгоритма нахождения островов на карте.
  
@@ -52,4 +52,9 @@ Change-функция для замены переменных которые п
 Vivod-функция для вывода номера острова,количество элементов в острове и его координат.
 
 <h1>3. Примеры результатов работы программы</h1>
+ 
 ![image](https://github.com/Mark65537/IslandProblem/blob/main/images/example1.png)
+ 
+ ![image](https://github.com/Mark65537/IslandProblem/blob/main/images/example2.png)
+ 
+ ![image](https://github.com/Mark65537/IslandProblem/blob/main/images/example3.png)
