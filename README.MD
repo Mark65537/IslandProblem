@@ -23,7 +23,7 @@
 <h3>2.2.1 Блок-схема алгоритма</h3>
 
 В данном разделе приводится графическая блок-схема алгоритма решения задачи.
-![image](https://github.com/Mark65537/IslandProblem/blob/main/images/blok.png)
+![image](https://github.com/Mark65537/IslandProblem/blob/main/images/example1.png)
 Пример:
 На рис.1. приведена графическая блок-схема алгоритма нахождения островов на карте.
  
