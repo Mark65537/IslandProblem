@@ -52,4 +52,4 @@ Change-функция для замены переменных которые п
 Vivod-функция для вывода номера острова,количество элементов в острове и его координат.
 
 <h1>3. Примеры результатов работы программы</h1>
-![image](https://github.com/Mark65537/IslandProblem/blob/main/images/example 1.png)
+![image]("https://github.com/Mark65537/IslandProblem/blob/main/images/example 1.png")
